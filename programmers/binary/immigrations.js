@@ -16,5 +16,6 @@ function solution(n, times) {
       min = mid + 1;
     }
   }
+
   return min;
 }
